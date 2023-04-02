@@ -1,0 +1,25 @@
+#Jogo
+titulo: God of War
+preco: 199.99
+descricao: Jogo de ação e aventura
+classificacao: 18 anos
+plataforma: Playstation 5
+
+#Jogo
+titulo: The Legend of Zelda: Breath of the Wild
+preco: 299.99
+descricao: Jogo de ação e aventura
+classificacao: 10 anos
+plataforma: Nintendo Switch
+
+#Assinatura
+plano: Mensal
+preco: 29.99
+duracao: 1 mês
+beneficios: Acesso a jogos exclusivos
+
+#Assinatura
+plano: Anual
+preco: 299.99
+duracao: 12 meses
+beneficios: Acesso a jogos exclusivos, descontos em compras

@@ -1,0 +1,25 @@
+#Cliente
+nome: João Silva
+cpf: 123.456.789-10
+email: joao.silva@gmail.com
+endereco: Rua dos Jogos, 123 - São Paulo
+telefone: (11) 1234-5678
+
+#Cliente
+nome: Maria Souza
+cpf: 987.654.321-00
+email: maria.souza@hotmail.com
+endereco: Avenida dos Gamers, 456 - Rio de Janeiro
+telefone: (21) 9876-5432
+
+#Chat
+cliente: João Silva
+email: joao.silva@gmail.com
+mensagem: Olá, gostaria de saber mais informações sobre a assinatura mensal.
+DataHora: 21/03/2023 ás 20:15
+
+#Chat
+cliente: Maria Souza
+email: maria.souza@hotmail.com
+mensagem: Qual é o valor da assinatura anual e quais benefícios eu terei acesso?
+datahora: 15/03/2023 ás 10:22
